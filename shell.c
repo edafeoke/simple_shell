@@ -2,7 +2,6 @@
 
 /**
  * prompt - display prompt
- * @line: pointer to store the line
  *
  * Return: void
  */
